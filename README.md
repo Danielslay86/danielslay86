@@ -5,6 +5,7 @@ Software Engineer. Founder of SlayLab LLC.
 ## Lamplit Keep
 Creative and side projects. [github.com/lamplitkeep](https://github.com/lamplitkeep)
 
+- SitRep: Homepage with freedom
 - Arras: live GPU wallpapers for KDE Plasma
 - FaultPanels: Three.js error pages
 - DivBar: taskbar dividers for Linux
