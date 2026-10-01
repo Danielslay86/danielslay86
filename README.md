@@ -14,4 +14,4 @@ Creative and side projects. [github.com/lamplitkeep](https://github.com/lamplitk
 Security-first office tools. [github.com/defydirective](https://github.com/defydirective)
 
 ## Elsewhere
-[slaystack.dev](https://slaystack.dev) · [slaylabs.com](https://slaylab.net)
+[slaystack.dev](https://slaystack.dev) · [slaylab.net](https://slaylab.net)
